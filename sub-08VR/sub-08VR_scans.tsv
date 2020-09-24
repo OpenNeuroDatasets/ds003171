@@ -1,0 +1,10 @@
+filename	acq_time
+anat/sub-08VR_acq-MPRAGE_run-01_T1w.nii.gz	2014-10-08T15:53:36
+func/sub-08VR_task-movie_run-01_bold.nii.gz	2014-10-08T15:56:29
+func/sub-08VR_task-rest_run-01_bold.nii.gz	2014-10-08T16:02:37
+func/sub-08VR_task-movie_run-02_bold.nii.gz	2014-10-08T16:27:38
+func/sub-08VR_task-rest_run-02_bold.nii.gz	2014-10-08T16:34:09
+func/sub-08VR_task-movie_run-03_bold.nii.gz	2014-10-08T16:51:57
+func/sub-08VR_task-rest_run-03_bold.nii.gz	2014-10-08T16:57:49
+func/sub-08VR_task-movie_run-04_bold.nii.gz	2014-10-08T17:28:18
+func/sub-08VR_task-rest_run-04_bold.nii.gz	2014-10-08T17:38:09
