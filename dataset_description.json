@@ -1,24 +1,28 @@
 {
-    "Acknowledgements": "TODO: whom you want to acknowledge",
+    "Acknowledgements": "AMO is a CIFAR fellow",
     "Authors": [
-        "Emily Nichols",
         "Sivayini Kandeepan",
+        "Jorge Rudas",
+        "Francisco Gomez",
+        "Bobby Stojanoski",
+        "Sreeram Valluri",
+        "Adrian Mark Owen",
         "Lorina Naci",
-	"Adrian Owen",
-	"Andrea Soddu"
+		"Andrea Soddu"
+	    "Emily Sophia Nichols",
     ],
     "BIDSVersion": "1.0.1",
-    "DatasetDOI": "TODO: eventually a DOI for the dataset",
+    "DatasetDOI": "https://openneuro.org/datasets/ds003171",
     "Funding": [
-        "TODO",
-        "GRANT #1",
-        "GRANT #2"
+        "NSERC Discovery grant (05578-2014RGPIN)",
+        "Canada Excellence Research Chair (215063)",
+        "CIHR Foundation Fund (167264)"
     ],
-    "HowToAcknowledge": "TODO: describe how to acknowledge -- either cite a corresponding paper, or just in acknowledgement section",
+    "HowToAcknowledge": "Please cite Naci et al., 2018",
     "License": "TODO: choose a license, e.g. PDDL (http://opendatacommons.org/licenses/pddl/)",
-    "Name": "TODO: name of the dataset",
+    "Name": "Using anesthesia-induced loss of consciousness to identify biomarkers of conscious awareness in the healthy human brain",
     "ReferencesAndLinks": [
-        "TODO",
-        "List of papers or websites"
+        "Naci, L., Haugg, A., MacDonald, A., Anello, M., Houldin, E., Naqshbandi, S., Gonzalez-Lara, L. E., Arango, M., Harle, C., Cusack, R., & Owen, A. M. (2018). Functional diversity of brain networks supports consciousness and verbal intelligence. Scientific Reports, 8(1), 1–15. https://doi.org/10.1038/s41598-018-31525-z",
+        "Kandeepan, S., Rudas, J., Gomez, F., Stojanoski, B., Valluri, S., Owen, A. M., Naci, L., Soddu, A.†, & Nichols, E. S.† (2020). Modeling an Auditory Stimulated Brain Under Altered States of Consciousness using the Generalized Ising Model. NeuroImage, In Press."
     ]
 }
