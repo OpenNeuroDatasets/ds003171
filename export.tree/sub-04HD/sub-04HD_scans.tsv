@@ -1,0 +1,10 @@
+filename	acq_time
+anat/sub-04HD_acq-MPRAGE_run-01_T1w.nii.gz	2014-07-04T09:42:09
+func/sub-04HD_task-movie_run-01_bold.nii.gz	2014-07-04T09:47:17
+func/sub-04HD_task-rest_run-01_bold.nii.gz	2014-07-04T09:57:51
+func/sub-04HD_task-movie_run-02_bold.nii.gz	2014-07-04T10:21:18
+func/sub-04HD_task-rest_run-02_bold.nii.gz	2014-07-04T10:26:37
+func/sub-04HD_task-movie_run-03_bold.nii.gz	2014-07-04T10:48:31
+func/sub-04HD_task-rest_run-03_bold.nii.gz	2014-07-04T10:55:58
+func/sub-04HD_task-movie_run-04_bold.nii.gz	2014-07-04T11:27:31
+func/sub-04HD_task-rest_run-04_bold.nii.gz	2014-07-04T11:30:38
