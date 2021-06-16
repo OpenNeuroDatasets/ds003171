@@ -1,0 +1,11 @@
+filename	acq_time
+anat/sub-27HF_acq-MPRAGE_run-01_T1w.nii.gz	2014-11-27T17:25:46
+func/sub-27HF_task-audio_run-01_bold.nii.gz	2014-11-27T17:37:07
+func/sub-27HF_task-rest_run-01_bold.nii.gz	2014-11-27T17:44:17
+func/sub-27HF_task-audio_run-02_bold.nii.gz	2014-11-27T18:12:47
+func/sub-27HF_task-rest_run-02_bold.nii.gz	2014-11-27T18:20:17
+func/sub-27HF_task-audio_run-03_bold.nii.gz	2014-11-27T18:41:47
+func/sub-27HF_task-rest_run-03_bold.nii.gz	2014-11-27T18:47:17
+dwi/sub-27HF_run-01_dwi.nii.gz	2014-11-27T19:01:47
+func/sub-27HF_task-audio_run-04_bold.nii.gz	2014-11-27T19:22:29
+func/sub-27HF_task-rest_run-04_bold.nii.gz	2014-11-27T19:33:07

@@ -1,0 +1,11 @@
+filename	acq_time
+anat/sub-17NA_acq-MPRAGE_run-01_T1w.nii.gz	2014-11-17T18:18:21
+func/sub-17NA_task-audio_run-01_bold.nii.gz	2014-11-17T18:23:18
+func/sub-17NA_task-rest_run-01_bold.nii.gz	2014-11-17T18:31:10
+func/sub-17NA_task-audio_run-02_bold.nii.gz	2014-11-17T18:50:33
+func/sub-17NA_task-rest_run-02_bold.nii.gz	2014-11-17T18:58:18
+func/sub-17NA_task-audio_run-03_bold.nii.gz	2014-11-17T19:11:10
+func/sub-17NA_task-rest_run-03_bold.nii.gz	2014-11-17T19:22:56
+dwi/sub-17NA_run-01_dwi.nii.gz	2014-11-17T19:27:18
+func/sub-17NA_task-audio_run-04_bold.nii.gz	2014-11-17T19:46:10
+func/sub-17NA_task-rest_run-04_bold.nii.gz	2014-11-17T19:55:50

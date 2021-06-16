@@ -1,0 +1,11 @@
+filename	acq_time
+anat/sub-2525JK_acq-MPRAGE_run-01_T1w.nii.gz	2014-11-25T16:08:57
+func/sub-2525JK_task-audio_run-01_bold.nii.gz	2014-11-25T16:21:42
+func/sub-2525JK_task-rest_run-01_bold.nii.gz	2014-11-25T16:34:21
+func/sub-2525JK_task-audiolight_run-01_bold.nii.gz	2014-11-25T17:03:02
+func/sub-2525JK_task-restlight_run-01_bold.nii.gz	2014-11-25T17:14:58
+func/sub-2525JK_task-audiodeep_run-01_bold.nii.gz	2014-11-25T17:32:42
+func/sub-2525JK_task-restdeep_run-01_bold.nii.gz	2014-11-25T17:44:21
+dwi/sub-2525JK_run-01_dwi.nii.gz	2014-11-25T17:55:01
+func/sub-2525JK_task-audiorecovery_run-01_bold.nii.gz	2014-11-25T18:06:21
+func/sub-2525JK_task-restrecovery_run-01_bold.nii.gz	2014-11-25T18:21:02

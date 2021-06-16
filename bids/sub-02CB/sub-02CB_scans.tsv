@@ -1,0 +1,12 @@
+filename	acq_time
+anat/sub-02CB_acq-MPRAGE_run-01_T1w.nii.gz	2014-05-02T16:24:31
+func/sub-02CB_task-audioawake_run-01_bold.nii.gz	2014-05-02T16:35:40
+func/sub-02CB_task-rest_run-01_bold.nii.gz	2014-05-02T16:43:15
+dwi/sub-02CB_run-01_dwi.nii.gz	2014-05-02T16:59:42
+func/sub-02CB_task-audiolight_run-01_bold.nii.gz	2014-05-02T17:25:20
+func/sub-02CB_task-restlight_run-01_bold.nii.gz	2014-05-02T17:32:15
+func/sub-02CB_task-audiodeep_run-01_bold.nii.gz	2014-05-02T17:52:42
+func/sub-02CB_task-audiodeep_run-02_bold.nii.gz	2014-05-02T17:57:00
+func/sub-02CB_task-restdeep_run-01_bold.nii.gz	2014-05-02T18:06:15
+func/sub-02CB_task-audiorecovery_run-01_bold.nii.gz	2014-05-02T18:36:02
+func/sub-02CB_task-restrecovery_run-01_bold.nii.gz	2014-05-02T18:46:20

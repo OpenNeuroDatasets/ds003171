@@ -1,0 +1,11 @@
+filename	acq_time
+func/sub-16RA_task-audio_run-01_bold.nii.gz	2014-05-16T16:39:08
+func/sub-16RA_task-rest_run-01_bold.nii.gz	2014-05-16T16:49:17
+anat/sub-16RA_acq-MPRAGE_run-01_T1w.nii.gz	2014-05-16T17:09:59
+func/sub-16RA_task-audiolight_run-01_bold.nii.gz	2014-05-16T17:25:17
+func/sub-16RA_task-restlight_run-01_bold.nii.gz	2014-05-16T17:32:38
+func/sub-16RA_task-audio_run-02_bold.nii.gz	2014-05-16T17:49:28
+func/sub-16RA_task-rest_run-02_bold.nii.gz	2014-05-16T18:00:57
+dwi/sub-16RA_run-01_dwi.nii.gz	2014-05-16T18:15:21
+func/sub-16RA_task-audiorecovery_run-01_bold.nii.gz	2014-05-16T18:28:08
+func/sub-16RA_task-restrecovery_run-01_bold.nii.gz	2014-05-16T18:33:17
