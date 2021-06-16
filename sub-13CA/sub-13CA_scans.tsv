@@ -1,7 +1,7 @@
 filename	acq_time
 anat/sub-13CA_acq-MPRAGE_run-01_T1w.nii.gz	2014-08-13T16:13:28
-func/sub-13CA_task-audio_run-01_bold.nii.gz	2014-08-13T16:19:26
-func/sub-13CA_task-rest_run-01_bold.nii.gz	2014-08-13T16:25:08
+func/sub-13CA_task-audioawake_run-01_bold.nii.gz	2014-08-13T16:19:26
+func/sub-13CA_task-restawake_run-01_bold.nii.gz	2014-08-13T16:25:08
 func/sub-13CA_task-audiolight_run-01_bold.nii.gz	2014-08-13T16:48:50
 func/sub-13CA_task-restlight_run-01_bold.nii.gz	2014-08-13T16:57:46
 func/sub-13CA_task-audiodeep_run-01_bold.nii.gz	2014-08-13T17:21:28
