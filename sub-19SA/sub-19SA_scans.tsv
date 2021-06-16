@@ -1,9 +1,0 @@
-filename	acq_time
-anat/sub-19SA_acq-MPRAGE_run-01_T1w.nii.gz	2014-11-19T18:35:07
-func/sub-19SA_task-movie_run-01_bold.nii.gz	2014-11-19T18:37:35
-func/sub-19SA_task-rest_run-01_bold.nii.gz	2014-11-19T18:50:39
-func/sub-19SA_task-rest_run-02_bold.nii.gz	2014-11-19T19:23:19
-func/sub-19SA_task-movie_run-02_bold.nii.gz	2014-11-19T19:53:15
-func/sub-19SA_task-rest_run-03_bold.nii.gz	2014-11-19T20:02:39
-func/sub-19SA_task-movie_run-03_bold.nii.gz	2014-11-19T20:24:15
-func/sub-19SA_task-rest_run-04_bold.nii.gz	2014-11-19T20:34:34
