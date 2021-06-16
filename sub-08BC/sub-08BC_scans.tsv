@@ -1,7 +1,7 @@
 filename	acq_time
 anat/sub-08BC_acq-MPRAGE_run-01_T1w.nii.gz	2014-10-08T18:12:23
-func/sub-08BC_task-audio_run-01_bold.nii.gz	2014-10-08T18:18:29
-func/sub-08BC_task-rest_run-01_bold.nii.gz	2014-10-08T18:30:28
+func/sub-08BC_task-audioawake_run-01_bold.nii.gz	2014-10-08T18:18:29
+func/sub-08BC_task-restawake_run-01_bold.nii.gz	2014-10-08T18:30:28
 func/sub-08BC_task-restlight_run-01_bold.nii.gz	2014-10-08T19:02:49
 func/sub-08BC_task-audiolight_run-01_bold.nii.gz	2014-10-08T19:11:13
 func/sub-08BC_task-audiodeep_run-01_bold.nii.gz	2014-10-08T19:23:18
