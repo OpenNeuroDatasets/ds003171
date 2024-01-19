@@ -1,0 +1,11 @@
+filename	acq_time
+anat/sub-08VR_acq-MPRAGE_run-01_T1w.nii.gz	2014-10-08T15:53:36
+func/sub-08VR_task-audioawake_run-01_bold.nii.gz	2014-10-08T15:58:29
+func/sub-08VR_task-restawake_run-01_bold.nii.gz	2014-10-08T16:10:26
+func/sub-08VR_task-audiolight_run-01_bold.nii.gz	2014-10-08T16:29:38
+func/sub-08VR_task-restlight_run-01_bold.nii.gz	2014-10-08T16:36:49
+func/sub-08VR_task-audiodeep_run-01_bold.nii.gz	2014-10-08T16:53:57
+func/sub-08VR_task-restdeep_run-01_bold.nii.gz	2014-10-08T16:59:49
+dwi/sub-08VR_run-01_dwi.nii.gz	2014-10-08T17:11:37
+func/sub-08VR_task-audiorecovery_run-01_bold.nii.gz	2014-10-08T17:27:18
+func/sub-08VR_task-restrecovery_run-01_bold.nii.gz	2014-10-08T17:32:09
