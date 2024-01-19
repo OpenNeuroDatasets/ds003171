@@ -1,0 +1,11 @@
+filename	acq_time
+func/sub-30AQ_task-audioawake_run-01_bold.nii.gz	2014-05-30T16:39:46
+func/sub-30AQ_task-restawake_run-01_bold.nii.gz	2014-05-30T16:49:12
+func/sub-30AQ_task-audiolight_run-01_bold.nii.gz	2014-05-30T17:08:40
+func/sub-30AQ_task-restlight_run-01_bold.nii.gz	2014-05-30T17:16:06
+anat/sub-30AQ_acq-MPRAGE_run-01_T1w.nii.gz	2014-05-30T17:25:38
+func/sub-30AQ_task-audiodeep_run-01_bold.nii.gz	2014-05-30T17:46:00
+func/sub-30AQ_task-restdeep_run-01_bold.nii.gz	2014-05-30T17:50:26
+dwi/sub-30AQ_run-01_dwi.nii.gz	2014-05-30T17:59:32
+func/sub-30AQ_task-audiorecovery_run-01_bold.nii.gz	2014-05-30T18:15:20
+func/sub-30AQ_task-restrecovery_run-01_bold.nii.gz	2014-05-30T18:21:06

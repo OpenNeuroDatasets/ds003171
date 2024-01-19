@@ -1,0 +1,11 @@
+filename	acq_time
+anat/sub-17EK_acq-MPRAGE_run-01_T1w.nii.gz	2014-11-17T15:44:16
+func/sub-17EK_task-audioawake_run-01_bold.nii.gz	2014-11-17T15:49:53
+func/sub-17EK_task-restawake_run-01_bold.nii.gz	2014-11-17T15:58:22
+func/sub-17EK_task-audiolight_run-01_bold.nii.gz	2014-11-17T16:18:30
+func/sub-17EK_task-restlight_run-01_bold.nii.gz	2014-11-17T16:28:53
+func/sub-17EK_task-audiodeep_run-01_bold.nii.gz	2014-11-17T16:48:42
+func/sub-17EK_task-restdeep_run-01_bold.nii.gz	2014-11-17T16:56:30
+dwi/sub-17EK_run-01_dwi.nii.gz	2014-11-17T17:08:33
+func/sub-17EK_task-restrecovery_run-01_bold.nii.gz	2014-11-17T17:26:30
+func/sub-17EK_task-audiorecovery_run-01_bold.nii.gz	2014-11-17T17:34:53
