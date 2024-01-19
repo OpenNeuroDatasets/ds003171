@@ -1,0 +1,10 @@
+filename	acq_time
+anat/sub-25JK_acq-MPRAGE_run-01_T1w.nii.gz	2014-11-25T16:08:57
+func/sub-25JK_task-movie_run-01_bold.nii.gz	2014-11-25T16:21:42
+func/sub-25JK_task-rest_run-01_bold.nii.gz	2014-11-25T16:34:21
+func/sub-25JK_task-movie_run-02_bold.nii.gz	2014-11-25T16:59:02
+func/sub-25JK_task-rest_run-02_bold.nii.gz	2014-11-25T17:08:01
+func/sub-25JK_task-movie_run-03_bold.nii.gz	2014-11-25T17:32:42
+func/sub-25JK_task-rest_run-03_bold.nii.gz	2014-11-25T17:39:01
+func/sub-25JK_task-movie_run-04_bold.nii.gz	2014-11-25T18:05:01
+func/sub-25JK_task-rest_run-04_bold.nii.gz	2014-11-25T18:23:02
